@@ -4,7 +4,7 @@
 
 | | |
 | :---: | :---: |
-| [ロベールのＣ＋＋教室]("http://www7b.biglobe.ne.jp/~robe/cpphtml/")  | C++についての情報がまとめられています |
+| [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/)  | C++についての情報がまとめられています |
 | [苦しんで覚えるC言語]("https://9cguide.appspot.com/") | C言語入門に最適 |
 | [++C++; // 未確認飛行 C]("https://ufcpp.net/") | C#についての情報がまとめられています |
 | [dskjal]("https://dskjal.com/") | 3DCGについての情報がまとめられています |
