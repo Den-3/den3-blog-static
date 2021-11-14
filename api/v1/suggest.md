@@ -13,4 +13,4 @@
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=ja) | gitについて視覚的に学べるサイト |
 | [Basic Syntax Markdown Guide ](https://www.markdownguide.org/basic-syntax/) | マークダウンの基本構文のページ |
 | [学生ゲーム開発者向け 低予算・高性能ノート PC紹介](https://github.com/Reputeless/Laptops) | 学生ゲーム開発者向け 低予算・高性能ノート PC紹介サイトです |
-| :---: | :---: |
+| --- | --- |
