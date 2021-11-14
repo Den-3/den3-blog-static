@@ -2,8 +2,6 @@
 
 部員の独断と偏見のみで選ばれたプログラムを勉強するためのおすすめサイトの紹介です！他におすすめサイトがあれば是非教えてください！
 
-| | |
-| :---: | :---: |
 | [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/)  | C++についての情報がまとめられています |
 | [苦しんで覚えるC言語](https://9cguide.appspot.com/) | C言語入門に最適 |
 | [++C++; // 未確認飛行 C](https://ufcpp.net/) | C#についての情報がまとめられています |
@@ -15,3 +13,4 @@
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=ja) | gitについて視覚的に学べるサイト |
 | [Basic Syntax Markdown Guide ](https://www.markdownguide.org/basic-syntax/) | マークダウンの基本構文のページ |
 | [学生ゲーム開発者向け 低予算・高性能ノート PC紹介](https://github.com/Reputeless/Laptops) | 学生ゲーム開発者向け 低予算・高性能ノート PC紹介サイトです |
+| :---: | :---: |
